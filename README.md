@@ -31,6 +31,11 @@ The **Smart Irrigation System** is an IoT-based project designed to monitor soil
 
 ---
 
+## Group Members
+- Chandan Kumar (19)
+- Krishna Kundan (33)
+- Md. Meraj Ashrafi (38)
+
 ## Code Configuration
 Below is the main configuration of the project:
 
