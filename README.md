@@ -24,6 +24,7 @@ The **Smart Irrigation System** is an IoT-based project designed to monitor soil
 ---
 
 ## Circuit Diagram
+![CircuitDiagram](./circuit.png)
 - **Soil Moisture Sensor**: Analog pin `A0` of NodeMCU.
 - **LED**: Pin `D4` of NodeMCU.
 - **Power Supply**: Connect NodeMCU to a 5V power source via USB.
